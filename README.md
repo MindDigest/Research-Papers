@@ -34,7 +34,7 @@ This repository collects final project reports and research papers from various 
 - **Summary:** Comprehensive report on a cybersecurity project, including threat analysis and mitigation strategies.
 - **Key Points:** Cyber threat landscape, security solutions, case studies.
 
-### 7. [CISC_865_Research_Paper.pdf](https://github.com/MindDigest/Research-Papers/blob/main/CISC_865_Research_Paper.pdf)
+### 7. [CISC_865___Project_Report.pdf](https://github.com/MindDigest/Research-Papers/blob/main/CISC_865___Project_Report.pdf)
 - **Course:** CISC 865.
 - **Summary:** In-depth exploration of computer systems advancements.
 - **Key Points:** Performance optimization, scalability challenges, and innovative solutions implemented.
