@@ -1,6 +1,6 @@
 # Research-Papers
 
-This repository collects final project reports and research papers from various CISC (Computer and Information Science) courses, with a focus on topics such as cryptography, cybersecurity, and advanced computer science subjects.
+This repository collects final project reports and research papers from various CISC (Computer and Information Science) courses, with a focus on topics such as cryptography, cybersecurity, and advanced algorithms. 
 
 ## Cheat Sheet for Included Papers
 
@@ -33,6 +33,11 @@ This repository collects final project reports and research papers from various 
 - **Topic:** Final Cybersecurity Project for bachelors completion.
 - **Summary:** Comprehensive report on a cybersecurity project, including threat analysis and mitigation strategies.
 - **Key Points:** Cyber threat landscape, security solutions, case studies.
+
+### 7. [CISC_865_Research_Paper.pdf](https://github.com/MindDigest/Research-Papers/blob/main/CISC_865_Research_Paper.pdf)
+- **Course:** CISC 865.
+- **Summary:** In-depth exploration of computer systems advancements.
+- **Key Points:** Performance optimization, scalability challenges, and innovative solutions implemented.
 
 ---
 
